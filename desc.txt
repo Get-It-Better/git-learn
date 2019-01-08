@@ -1,1 +1,2 @@
 hello, welcome to learn git with me.
+dev repositry is created.
